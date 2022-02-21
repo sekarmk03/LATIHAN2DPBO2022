@@ -10,7 +10,7 @@ Diupdate pada : 22 Februari 2022
 Repositori ini dibuat sebagai dokumentasi pengerjaan latihan dalam mata kuliah Desain dan Pemrograman Berorientasi Objek pada program studi Ilmu Komputer Universitas Pendidikan Indonesia.
 
 ## Implementasi Kelas dan Enkapsulasi
-> Saya Sekar Madu Kusumawardani_2007703 mengerjakan Latihan Praktikum A dan B dalam mata kuliah Struktur Data 1 untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+> Saya Sekar Madu Kusumawardani_2007703 mengerjakan Latihan Praktikum 2 dalam mata kuliah Struktur Data 1 untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ### Tech
 * [Java](https://www.java.com/en/) - bahasa pemrograman berorientasi objek multiplatform untuk pengembangan aplikasi dan website
